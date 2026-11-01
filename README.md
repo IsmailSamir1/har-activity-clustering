@@ -22,3 +22,8 @@ UCI **Human Activity Recognition** dataset: 7,352 samples × 561 accelerometer a
 
 Python · pandas · NumPy · scikit-learn · Matplotlib · Seaborn · Google Colab
 
+## Contents
+
+| File | Description |
+|---|---|
+| [`har_clustering.ipynb`](har_clustering.ipynb) | Full analysis with outputs and figures |
